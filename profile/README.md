@@ -7,7 +7,7 @@ ECHO is a research lab at DTU Management. We combine artificial intelligence wit
 </p>
 
 <p align="center">
-  <a href="https://github.com/observatory-echolab-dtu">Observatory for Technological Questions in Society</a>
+  <a href="https://github.com/echo-observatory">Observatory for Technological Questions in Society</a>
   ·
   <a href="#">Perspectival Modelling and Deep Digital Twins</a>
   ·
@@ -18,7 +18,7 @@ ECHO is a research lab at DTU Management. We combine artificial intelligence wit
 
 ## Observatory for Technological Questions in Society
 
-In the [Observatory for Technological Questions in Society](https://github.com/observatory-echolab-dtu), we leverage LLMs and other forms of NLP to parse and map public debates about technology. The ability to continuously semi-automatically monitor how issues emerge, how actors raise alerts, how different types of critique are mobilized, and how controversies enter different phases, allow us to focus our guided qualitative deep dives on significant moments of change and contestation.
+In the [Observatory for Technological Questions in Society](https://github.com/echo-observatory), we leverage LLMs and other forms of NLP to parse and map public debates about technology. The ability to continuously semi-automatically monitor how issues emerge, how actors raise alerts, how different types of critique are mobilized, and how controversies enter different phases, allow us to focus our guided qualitative deep dives on significant moments of change and contestation.
 
 ## Perspectival Modelling and Deep Digital Twins
 
