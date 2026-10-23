@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="images/logo.png" alt="ECHOlab logo" height="180">
+  <img src="profile/images/logo.png" alt="ECHOlab logo" height="180">
 </p>
 
 <p align="center">
