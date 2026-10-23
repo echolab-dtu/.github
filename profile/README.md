@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/github_org_banner.png" alt="ECHOlab logo" height="180">
+  <img src="images/github-org-banner.png" alt="ECHOlab logo" height="180">
 </p>
 
 <p align="center">
